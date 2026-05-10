@@ -89,7 +89,7 @@ Durante o desenvolvimento deste projeto, foram aprofundados conhecimentos sobre:
 
 ## 🔗 Artigo
 
-[[Link]](https://medium.com/@caducosta/inteligência-artificial-no-futebol-como-os-dados-estão-mudando-o-jogo-a7379ee3fd8d)
+[Link](https://medium.com/@caducosta/inteligência-artificial-no-futebol-como-os-dados-estão-mudando-o-jogo-a7379ee3fd8d)
 
 ---
 
